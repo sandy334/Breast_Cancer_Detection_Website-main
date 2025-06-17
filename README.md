@@ -89,6 +89,19 @@ src/
 - Resources for patients and families
 - Helpline information
 
+## 📋 Upcoming Features & TODO
+
+- [ ] Add AI-powered symptom checker
+- [ ] Implement multi-language support
+- [ ] Create interactive 3D breast examination guide
+- [ ] Add appointment scheduling system with nearby hospitals
+- [ ] Integrate real-time chat support with healthcare professionals
+- [ ] Create a mobile app version
+- [ ] Add user accounts and personalized dashboards
+- [ ] Implement a blog section for survivors' stories
+- [ ] Add periodic email reminders for self-examination
+- [ ] Create printable resources and guides
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
