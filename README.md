@@ -4,6 +4,19 @@ A comprehensive web application dedicated to breast cancer awareness, education,
 
 🔗 **Live Demo:** [Visit Website](https://breastcancerawarness.netlify.app/)
 
+## 🔄 Project Stages
+
+1. **Stage 1 - Awareness Website** (Current Repository)
+   - Focus on education and awareness
+   - Interactive UI for learning about breast cancer
+   - Resource hub for support and information
+
+2. **Stage 2 - Cancer Prediction & Detection**
+   - Repository: [Breast Cancer Prediction & Detection](https://github.com/sandy334/breast_cancer_prediction_detection)
+   - Implementation of ML models for cancer detection
+   - Advanced diagnostic tools
+   - Integration with the awareness platform
+
 ## 🌟 Features
 
 - **Awareness Information**: Detailed educational content about breast cancer
