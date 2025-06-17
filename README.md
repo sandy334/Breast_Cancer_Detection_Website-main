@@ -13,6 +13,7 @@ A comprehensive web application dedicated to breast cancer awareness, education,
 
 2. **Stage 2 - Cancer Prediction & Detection**
    - Repository: [Breast Cancer Prediction & Detection](https://github.com/sandy334/breast_cancer_prediction_detection)
+   - Live Demo: [Try Prediction Model](https://breast-cancer-prediction-detection.onrender.com/)
    - Implementation of ML models for cancer detection
    - Advanced diagnostic tools
    - Integration with the awareness platform
