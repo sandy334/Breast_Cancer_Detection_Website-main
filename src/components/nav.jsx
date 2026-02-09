@@ -46,7 +46,7 @@ export default function Navbar() {
           {/* Logo and Title */}
           <div className="flex items-center gap-2">
             <img
-              src="https://www.canva.com/design/DAGpi8yVVmE/Qjz_SOJBoJUSgmpcS-Lhmg/edit"
+              src="/logo0.png"
               alt="BreastCare Logo"
               className="h-10 w-auto sm:h-12"
             />
